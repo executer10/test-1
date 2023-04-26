@@ -70,4 +70,4 @@ class a{
 
 
 #이미지
-![Marine](![마린](https://user-images.githubusercontent.com/115143501/234462727-4c6d904c-0c47-48ed-8e36-a25a29f98f47.gif))
+![Marine](https://user-images.githubusercontent.com/115143501/234462956-cce746f0-e71c-4497-b40e-7ac58470ee75.jpg)
