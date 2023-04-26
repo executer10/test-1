@@ -70,4 +70,4 @@ class a{
 
 
 #이미지
-![텍스트](이미지링크주소)
+![Marine](![마린](https://user-images.githubusercontent.com/115143501/234462727-4c6d904c-0c47-48ed-8e36-a25a29f98f47.gif))
